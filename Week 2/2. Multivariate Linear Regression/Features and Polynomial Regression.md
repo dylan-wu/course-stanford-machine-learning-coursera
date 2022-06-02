@@ -16,4 +16,4 @@ To make it a square root function, we could do: $h_\theta(x) = \theta_0 + \theta
 
 One important thing to keep in mind is, if you choose your features this way then feature scaling becomes very important.
 
-eg. if $x_1$ has range $1 - 1000$ then range of $x_1^2$ becomes $1 - 1000000$ and that of x_1^3x13​ becomes 1 - 1000000000
+eg. if $x_1$ has range $1 - 1000$ then range of $x_1^2$ becomes $1 - 1000000$ and that of $x_1^3$ becomes $1 - 1000000000$
