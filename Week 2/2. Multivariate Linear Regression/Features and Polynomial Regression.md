@@ -12,7 +12,7 @@ For example, if our hypothesis function is $h_\theta(x)=\theta_0+\theta_1x_1$ th
 
 In the cubic version, we have created new features $x_2$ and $x_3$ where $x_2= _1^2$ and $x_3=x_1^3$.
 
-To make it a square root function, we could do: h_\theta(x) = \theta_0 + \theta_1 x_1 + \theta_2 \sqrt{x_1}hθ​(x)=θ0​+θ1​x1​+θ2​x1​​
+To make it a square root function, we could do: $h_\theta(x) = \theta_0 + \theta_1 x_1 + \theta_2 \sqrt{x_1}$
 
 One important thing to keep in mind is, if you choose your features this way then feature scaling becomes very important.
 
