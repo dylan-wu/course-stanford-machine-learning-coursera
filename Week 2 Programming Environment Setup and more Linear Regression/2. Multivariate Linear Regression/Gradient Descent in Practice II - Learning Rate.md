@@ -4,10 +4,10 @@
 
 **Automatic convergence test**. Declare convergence if $J(\theta)$ decreases by less than $E$ in one iteration, where $E$ is some small value such as $10^{-3}$. However, in practice it's difficult to choose this threshold value.
 
-![[Pasted image 20220602083326.png | 750]]
+![[images/Pasted image 20220602083326.png | 750]]
 It has been proven that if learning rate $\alpha$ is sufficiently small, then $J(\theta)$ will decrease on every iteration.
 
-![[Pasted image 20220602083552.png | 750]]
+![[images/Pasted image 20220602083552.png | 750]]
 
 To summarize:
 

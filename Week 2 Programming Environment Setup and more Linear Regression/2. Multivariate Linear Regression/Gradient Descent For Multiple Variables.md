@@ -20,5 +20,5 @@ $\{\theta_j:=\theta_j-\alpha\frac{1}{m}\sum\limits_{i=1}^m(h_\theta(x^{(i)})-y^{
 
 The following image compared gradient descent with one variable to gradient descent with multiple variables:
 
-![[Pasted image 20220601092744.png]]
+![[images/Pasted image 20220601092744.png]]
 
