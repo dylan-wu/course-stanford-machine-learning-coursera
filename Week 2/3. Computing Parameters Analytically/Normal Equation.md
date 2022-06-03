@@ -1,1 +1,1 @@
-Gradient descent gives one way of minimizing $J$. 
+Gradient descent gives one way of minimizing $J$. Let's discuss a second way of doing so, this time performing the minimization explicitly and without resorti
