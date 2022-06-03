@@ -10,4 +10,4 @@ $g(z)=\frac{1}{1+e^{-z}}$
 
 The function $g(z)$, shown here, maps any real number to the $(0,1)$ interval, making it useful for transforming an arbitrary-valued function into a function better suited for classification.
 
-$h_\theta(x)$ will give us the **probability** that our 
+$h_\theta(x)$ will give us the **probability** that our output is $1$. For example, $h_\theta(x)=0.7$ gives us a probability of $70
