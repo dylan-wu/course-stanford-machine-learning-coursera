@@ -2,4 +2,5 @@ We could approach the classification problem ignoring the fact that $y$ is descr
 
 Our new form uses the "Sigmoid Function," also called the "Logistic Function":
 
-$h_\theta(x)=g)
+$h_\theta(x)=g(\theta^Tx)$
+$z=\theta^Tx$
