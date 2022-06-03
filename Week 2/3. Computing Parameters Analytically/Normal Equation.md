@@ -10,4 +10,6 @@ There is no need to do feature scaling with the normal equation.
 
 The following is a comparison of gradient descent and the normal equation:
 
-| Gradient Descent \ N
+| Gradient Descent | Normal Equation |
+| ---------------- | --------------- |
+| Need to choose alpha                 | N                |
