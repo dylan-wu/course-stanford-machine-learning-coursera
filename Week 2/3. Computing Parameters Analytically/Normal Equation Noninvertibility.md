@@ -1,0 +1,1 @@
+When implementing the normal equation in octave we want to use the 'pinv' 
