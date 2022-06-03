@@ -10,8 +10,9 @@ There is no need to do feature scaling with the normal equation.
 
 The following is a comparison of gradient descent and the normal equation:
 
-| Gradient Descent      | Normal Equation         |
-| --------------------- | ----------------------- |
-| Need to choose alpha  | No need to choose alpha |
-| Needs many iterations | No need to iterate      |
-| $O(kn^2)$                      |     $O(n^3)$, need to calculate inverse   |
+| Gradient Descent      | Normal Equation                               |
+| --------------------- | --------------------------------------------- |
+| Need to choose alpha  | No need to choose alpha                       |
+| Needs many iterations | No need to iterate                            |
+| $O(kn^2)$                 | $O(n^3)$, need to calculate inverse of $X^TX$ |
+|                       |                                               |
