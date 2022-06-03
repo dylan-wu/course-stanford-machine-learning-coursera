@@ -4,3 +4,10 @@ Our new form uses the "Sigmoid Function," also called the "Logistic Function":
 
 $h_\theta(x)=g(\theta^Tx)$
 $z=\theta^Tx$
+$g(z)=\frac{1}{1+e^{-z}}$
+
+![[Pasted image 20220603102208.png]]
+
+The function $g(z)$, shown here, maps any real number to the $(0,1)$ interval, making it useful for transforming an arbitrary-valued function into a function better suited for classification.
+
+$h_\theta(x)$ will give us the **probability** that our 
