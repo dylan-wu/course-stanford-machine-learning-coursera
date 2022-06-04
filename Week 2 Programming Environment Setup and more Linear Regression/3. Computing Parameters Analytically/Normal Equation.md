@@ -4,7 +4,7 @@ $\theta(X^TX)^{-1}X^Ty$
 
 Examples: $m=4$
 
-![](Pasted%20image%2020220603100916.png)
+![](images/Pasted%20image%2020220603100916.png)
 
 There is no need to do feature scaling with the normal equation.
 

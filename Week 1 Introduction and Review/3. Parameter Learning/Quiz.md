@@ -1,13 +1,16 @@
+---
+tags: #flashcards
+---
+
 ## Question 1
 ![](Pasted%20image%2020220523085649.png)
-
->[!FAQ]- Solution
+?
 4
 
 ```
 ### Solution
 4
-
+```
 ## Question 2
 ![](Pasted%20image%2020220523085723.png)
 
