@@ -5,7 +5,7 @@ Imagine that we graph our hypothesis function based on its fields $\theta_0$ and
 
 We put $\theta_0$ on the x axis and $\theta_1$ on the y axis, with the cost function on the vertical z axis. The points on our graph will be the result of the cost function using our hypothesis with those specific theta parameters. The graph below depicts such a setup.
 
-![](Pasted%20image%2020220531125403.png)
+![](images/Pasted%20image%2020220531125403.png)
 
 We will know that we have succeeded when our cost function is at the very bottom of the pits in our graph, i.e. when its value is the minimum. The red arrows show the minimum points in the graph.
 
@@ -25,4 +25,4 @@ $j=0,1$ represents the feature index number.
 
 At every iteration $j$, one should simultaneously update the parameters $\theta_1,\theta_2,...,\theta_n$. Updating a specific parameter prior to calculating another one on the $j^{(th)}$ iteration would yield to a wrong implementation.
 
-![](Pasted%20image%2020220531130047.png)
+![](images/Pasted%20image%2020220531130047.png)
