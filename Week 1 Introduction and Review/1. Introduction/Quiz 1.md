@@ -1,6 +1,6 @@
 ## Q1
 
-![[images/Pasted image 20220519085812.png]]
+![](Pasted%20image%2020220519085812.png)
 
 ### Solution
 
@@ -8,7 +8,7 @@ B. The weather prediction task.
 
 ## Q2
 
-![[images/Pasted image 20220519085819.png]]
+![](Pasted%20image%2020220519085819.png)
 
 ### Solution
 
@@ -16,7 +16,7 @@ A. Classification
 
 ## Q3
 
-![[images/Pasted image 20220519085827.png]]
+![](Pasted%20image%2020220519085827.png)
 
 ### Solution
 
@@ -24,7 +24,7 @@ B. Classification
 
 ## Q4
 
-![[images/Pasted image 20220519085835.png]]
+![](Pasted%20image%2020220519085835.png)
 
 ### Solution
 
@@ -34,7 +34,7 @@ D. Given 50 articles written by male authors, and 50 articles written by female 
 
 ## Q5
 
-![[images/Pasted image 20220519085843.png]]
+![](Pasted%20image%2020220519085843.png)
 
 ### Solution
 

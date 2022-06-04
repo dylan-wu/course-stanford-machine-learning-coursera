@@ -8,5 +8,5 @@ To break it apart, it is $\frac{1}{2}\overline x$ where $\overline x$ is hte mea
 
 This function is otherwise called the "Squared error function", or "Mean squared error". The mean is halved $(\frac{1}{2})$ as a convenience for the computation of the gradient descent, as the derivative term of the square function will cancel out the $\frac{1}{2}$ term. The following image summarizes what the cost function does:
 
-![[images/Pasted image 20220522105645.png]]
+![](Pasted%20image%2020220522105645.png)
 
