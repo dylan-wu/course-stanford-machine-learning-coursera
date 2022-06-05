@@ -29,4 +29,8 @@ The **decision boundary** is the line that separates the area where $y=0$ ad whe
 
 Example:
 
-$\theta=$
+$\theta=\begin{bmatrix}5\\-1\\0\end{bmatrix}$
+$y=1$ if $5+(-1)x_1=0x_2\ge0$
+$5-x_1\ge0$
+$-x_1\ge-5$
+$x_1\le5$
