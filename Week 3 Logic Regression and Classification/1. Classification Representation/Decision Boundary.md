@@ -18,5 +18,6 @@ $z\rightarrow-\infty,e^\infty\rightarrow\infty\implies g(z)=0$
 So if our input to $g$ is $\theta^TX$, then that means:
 
 $h_\theta(x)=g(\theta^Tx_\ge0.5)$
-
 when $\theta^Tx\ge0$
+
+From these statements we can now say:
