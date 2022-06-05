@@ -12,3 +12,6 @@ When $y=1$, we get the following plot for $J(\theta)$ vs $h_\theta(x)$:
 When $y=0$, we get the following plot for $J(\theta)$ vs $h_\theta(x)$:
 ![[Pasted image 20220605154517.png | 500]]
 
+$\text{Cost}(h_\theta(x),y)=0$ if $h_\theta(x)=y$
+$\text{Cost}(h_\theta(x),y)\rightarrow\infty$ if $y=0$ and $h_\theta(x)\rightarrow1$
+$\text{Cost}(h_\theta(x),y)\rightarrow\infty$ if $y=0$ and $h_\theta(x)\rightarrow1$
