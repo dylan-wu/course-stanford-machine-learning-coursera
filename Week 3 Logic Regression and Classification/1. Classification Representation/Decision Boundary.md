@@ -34,3 +34,6 @@ $y=1$ if $5+(-1)x_1=0x_2\ge0$
 $5-x_1\ge0$
 $-x_1\ge-5$
 $x_1\le5$
+
+In this case, our decision boundary is a straight vertical line placed on the graph where $x_1=5$, and everything to the left of that denotes $y=1$, while everything to the right denotes $y=0$.
+
