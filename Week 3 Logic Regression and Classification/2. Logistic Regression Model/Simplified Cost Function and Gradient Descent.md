@@ -4,4 +4,3 @@
 
 We can compress our cost function's two conditional cases into one case:
 
-$\text{Cost(h_\theta(x),y)}$
