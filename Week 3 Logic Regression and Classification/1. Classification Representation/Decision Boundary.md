@@ -37,3 +37,4 @@ $x_1\le5$
 
 In this case, our decision boundary is a straight vertical line placed on the graph where $x_1=5$, and everything to the left of that denotes $y=1$, while everything to the right denotes $y=0$.
 
+Again, the input to the sigmoid function $g(z)$ 
