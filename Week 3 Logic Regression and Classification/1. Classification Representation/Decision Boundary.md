@@ -14,3 +14,9 @@ Remember.
 $z=0,e^0=\implies g(z)=\frac{1}{2}$
 $z\rightarrow\infty,e^{-\infty}\rightarrow0\implies g(z)=1$
 $z\rightarrow-\infty,e^\infty\rightarrow\infty\implies g(z)=0$
+
+So if our input to $g$ is $\theta^TX$, then that means:
+
+$h_\theta(x)=g(\theta^Tx_\ge0.5)$
+
+when $\theta^Tx\ge0$
