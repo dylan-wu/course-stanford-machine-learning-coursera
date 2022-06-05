@@ -23,3 +23,10 @@ when $\theta^Tx\ge0$
 From these statements we can now say:
 
 $\theta^Tx\ge0\implies y=1$
+$\theta^Tx<0\implies y=0$
+
+The **decision boundary** is the line that separates the area where $y=0$ ad where $y=1$. i tis created by our hypothesis function.
+
+Example:
+
+$\theta=$
