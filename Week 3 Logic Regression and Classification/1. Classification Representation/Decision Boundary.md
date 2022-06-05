@@ -21,3 +21,5 @@ $h_\theta(x)=g(\theta^Tx_\ge0.5)$
 when $\theta^Tx\ge0$
 
 From these statements we can now say:
+
+$\theta^Tx\ge0\implies y=1$
