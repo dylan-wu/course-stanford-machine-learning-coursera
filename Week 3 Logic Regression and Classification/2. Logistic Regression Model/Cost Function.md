@@ -14,4 +14,10 @@ When $y=0$, we get the following plot for $J(\theta)$ vs $h_\theta(x)$:
 
 $\text{Cost}(h_\theta(x),y)=0$ if $h_\theta(x)=y$
 $\text{Cost}(h_\theta(x),y)\rightarrow\infty$ if $y=0$ and $h_\theta(x)\rightarrow1$
-$\text{Cost}(h_\theta(x),y)\rightarrow\infty$ if $y=0$ and $h_\theta(x)\rightarrow1$
+$\text{Cost}(h_\theta(x),y)\rightarrow\infty$ if $y=1$ and $h_\theta(x)\rightarrow0$
+
+If our correct answer 'y' is 0, then the cost function will be 0 if our hypothesis function also outputs 0. If our hypothesis approaches 1, then the cost function will approach infinity.
+
+If our correct answer 'y' is 1, then the cost function will be 0 if our hypothesis function outputs 1. If our hypothesis approaches 0, then the cost function will approach infinity.
+
+Note that writing the cost function in this way guarantees that $J(\theta)$ is convex for logistic regression.
