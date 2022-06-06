@@ -17,3 +17,12 @@ A vectorized implementation is:
 $h=g(X\theta)$
 $J(\theta)=\frac{1}{m}\cdot(-y^T\log(h)-(1-y)^T\log(1-h))$
 
+**Gradient Descent**
+
+Remember that the general form of gradient descent is:
+
+$Repeat \{$
+$\theta_j:=\theta_j-\alpha\frac{\partial}{\partial\theta_j}J(\theta)$
+$\}$
+
+We can 
