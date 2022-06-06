@@ -25,4 +25,13 @@ $Repeat \{$
 $\theta_j:=\theta_j-\alpha\frac{\partial}{\partial\theta_j}J(\theta)$
 $\}$
 
-We can 
+We can work out the derivative part using calculus to get:
+
+$Repeat \{$
+$\theta_j:=\theta_j-\frac{\alpha}{m}\sum\limits_{i=1}^m(h_\theta(x^{(i)}-y^{(i)})x^{(i)}_j$
+$\}$
+
+Notice that this algorithm is identical to the one we used in linear regression. We still have to simultaneously update all values in theta.
+
+A vectorized implementation is:
+
