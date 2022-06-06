@@ -11,3 +11,12 @@ $...$
 $h_\theta^{(n)}(x)=P(y=n|x;\theta)$
 $\text{prediction}=\max_i(h^{(i)}_\theta(x))$
 
+We are basically choosing one class and then lumping all the others into a single second class. We do this repeatedly, applying binary logistic regression to each case, and then use the hypothesis that returned the highest value as our prediction.
+
+The following image shows how one could classify 3 classes:
+
+![[Pasted image 20220606092852.png | 500]]
+
+**To summarize:**
+
+Train a logistic regression classifier $h_\theta(x)$ for each class to predict the probably
