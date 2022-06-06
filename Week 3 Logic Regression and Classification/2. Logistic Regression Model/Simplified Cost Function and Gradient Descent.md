@@ -35,3 +35,5 @@ Notice that this algorithm is identical to the one we used in linear regression.
 
 A vectorized implementation is:
 
+$\theta:=\theta-\frac{\alpha}{m}X^T(g(X\theta)-\overrightarrow y)$
+
