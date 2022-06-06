@@ -4,3 +4,4 @@
 
 We can compress our cost function's two conditional cases into one case:
 
+$\text{$
