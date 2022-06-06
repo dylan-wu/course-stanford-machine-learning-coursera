@@ -10,4 +10,4 @@ Notice that when $y$ is equal to $1$, then the second term $(1-y)\log(1-h_\theta
 
 We can fully write out our entire cost function as follows:
 
-$J(\theta)=-\frac{1}{m}\sum\limits_{i=1}^m(y^{(i)}\log(h_\theta($
+$J(\theta)=-\frac{1}{m}\sum\limits_{i=1}^m(y^{(i)}\log(h_\theta(x^{(i)}))+(1-y^{(i)})\log(1-h_\theta(x^{(i)})))$
