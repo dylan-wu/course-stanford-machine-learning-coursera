@@ -1,0 +1,1 @@
+Consider the problem of predicting $y$ from $x\in R$. The leftmost figure below shows the result of fitting a 
