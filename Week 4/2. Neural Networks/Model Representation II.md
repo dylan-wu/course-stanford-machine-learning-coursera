@@ -14,3 +14,7 @@ We are multiplying our matrix $\Theta^{(j-1)}$ with dimensions $s_j\times(n+1)$ 
 
 $a^{(j)}=g(z^{(j)})$
 
+Where our function $g$ can be applied element-wise to our vector $z^{(j)}$.
+
+We can then add a bias unit (equal to 1) to layer j after we have computed $a^{(j)}$. This will be element $a_0^{(j)}$ and will be equal to $1$. To compute our final hypothesis, let's first compute another z vector:
+
