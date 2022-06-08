@@ -24,4 +24,6 @@ This is saying that we compute our activation nodes by using a 3×4 matrix of pa
 
 Each layer gets its own matrix of weights, $\Theta^{(j)}$.
 
-The dimensions of these
+The dimensions of these matrices of weights is determined as follows:
+
+The $+1$ comes from the addition in $\Theta^{(j}
