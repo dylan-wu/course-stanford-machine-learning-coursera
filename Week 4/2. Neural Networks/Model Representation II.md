@@ -20,4 +20,4 @@ We can then add a bias unit (equal to 1) to layer j after we have computed $a^{(
 
 $z^{(j+1)}=\Theta^{(j)}a^{(j)}$
 
-
+We get this final z vector by multiplying the next theta matrix after $\Theta^{(j-1)}$ with the values of all the activation nodes we just got. This last theta matrix $\Theta
