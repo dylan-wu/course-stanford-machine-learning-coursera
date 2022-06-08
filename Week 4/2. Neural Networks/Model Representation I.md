@@ -10,4 +10,6 @@ We can have intermediate layers of nodes between the input and output layers cal
 
 In this example, we label these intermediate or "hidden" layer nodes $a_0^2...a_n^2$ and call them "activation units."
 
-$a_i^{(j)}$
+$a_i^{(j)}=\text{"activation" of unit }i\text{ in layer} j$
+
+$\Theta^{(j)}=\text{matrix of weights controlling function mapping from layer$
