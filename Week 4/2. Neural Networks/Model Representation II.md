@@ -8,4 +8,5 @@ $a_3^{(2)}=g(z_3^{(2)})$
 
 In other words, for layer $j=2$ and node $k$, the variable $z$ will be:
 
-$z_k^{(2)}=\Theta^{(1)}__$
+$z_k^{(2)}=\Theta^{(1)}_{k,0}x_0+\Theta^{(1)}_{k,1}x_1+...+\Theta^{(1)}_{k,n}x_n$
+
