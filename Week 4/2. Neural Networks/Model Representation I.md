@@ -12,4 +12,5 @@ In this example, we label these intermediate or "hidden" layer nodes $a_0^2...a_
 
 $a_i^{(j)}=\text{"activation" of unit }i\text{ in layer} j$
 
-$\Theta^{(j)}=\text{matrix of weights controlling function mapping from layer$
+$\Theta^{(j)}=\text{matrix of weights controlling function mapping from layer }j\text{ to layer }j+1$
+
