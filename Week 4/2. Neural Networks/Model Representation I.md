@@ -21,3 +21,7 @@ $[x_0x_1x_2x_3]\rightarrow[a_1^{(2)}a_2^{(2)}a_3^{(2)}]\rightarrow h_\theta(x)$
 The values for each of the "activation" nodes is obtained as follows:
 
 This is saying that we compute our activation nodes by using a 3×4 matrix of parameters. We apply each row of the parameters to our inputs to obtain the value for one activation node. Our hypothesis output is the logistic function applied to the sum of the values of our activation nodes, which have been multiplied by yet another parameter matrix $\Theta^{(2)}$ containing the weights of our second layer of nodes.
+
+Each layer gets its own matrix of weights, $\Theta^{(j)}$.
+
+The dimensions of these
