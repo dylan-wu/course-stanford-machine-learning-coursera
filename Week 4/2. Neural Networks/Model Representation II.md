@@ -12,3 +12,5 @@ $z_k^{(2)}=\Theta^{(1)}_{k,0}x_0+\Theta^{(1)}_{k,1}x_1+...+\Theta^{(1)}_{k,n}x_n
 
 We are multiplying our matrix $\Theta^{(j-1)}$ with dimensions $s_j\times(n+1)$ (where $s_j$ is the number of our activation nodes) by our vector $a^{(j-1)}$ with height $(n+1)$. This gives us our vector $z^{(j)}$ with height $s_j$. Now we can get a vector of our activation nodes for layer $j$ as follows:
 
+$a^{(j)}=g(z^{(j)})$
+
