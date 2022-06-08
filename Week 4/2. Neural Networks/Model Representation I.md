@@ -26,4 +26,4 @@ Each layer gets its own matrix of weights, $\Theta^{(j)}$.
 
 The dimensions of these matrices of weights is determined as follows:
 
-The $+1$ comes from the addition in $\Theta^{(j}
+The $+1$ comes from the addition in $\Theta^{(j)}$ of the "bias nodes," $x_0$ and $\Theta^{(j)}_0$. In other words the output nodes will not include the bias nodes while the inputs will. The follo
