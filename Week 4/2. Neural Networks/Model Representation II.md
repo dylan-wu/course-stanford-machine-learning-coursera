@@ -18,3 +18,6 @@ Where our function $g$ can be applied element-wise to our vector $z^{(j)}$.
 
 We can then add a bias unit (equal to 1) to layer j after we have computed $a^{(j)}$. This will be element $a_0^{(j)}$ and will be equal to $1$. To compute our final hypothesis, let's first compute another z vector:
 
+$z^{(j+1)}=\Theta^{(j)}a^{(j)}$
+
+
