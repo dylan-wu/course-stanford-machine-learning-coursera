@@ -20,4 +20,9 @@ We can then add a bias unit (equal to 1) to layer j after we have computed $a^{(
 
 $z^{(j+1)}=\Theta^{(j)}a^{(j)}$
 
-We get this final z vector by multiplying the next theta matrix after $\Theta^{(j-1)}$ with the values of all the activation nodes we just got. This last theta matrix $\Theta
+We get this final z vector by multiplying the next theta matrix after $\Theta^{(j-1)}$ with the values of all the activation nodes we just got. This last theta matrix $\Theta^{(j)}$ will have only **one row** which is multiplied by one column $a^{(j)}$ so that our result is a single number. We then get our final result with:
+
+$h_\Theta(x)=a^{(j+1)}=g(z^{(j+1)})$
+
+Notice that in this **last step**, between layer $j$ and layer $j+1$, we are doing **exactly the same thing** as we did in logistic regression. Adding all these intermediate layers in neural networks allows us to more elegantly produce interesting and more complex non-linear hypotheses.
+
