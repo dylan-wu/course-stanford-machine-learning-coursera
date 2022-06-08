@@ -10,3 +10,4 @@ In other words, for layer $j=2$ and node $k$, the variable $z$ will be:
 
 $z_k^{(2)}=\Theta^{(1)}_{k,0}x_0+\Theta^{(1)}_{k,1}x_1+...+\Theta^{(1)}_{k,n}x_n$
 
+We are multiplying our matrix $\Theta^{(j-1)}$ with dimensions $s_j\times (n+1)$
