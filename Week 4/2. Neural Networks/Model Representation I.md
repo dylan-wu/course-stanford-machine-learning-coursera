@@ -8,3 +8,6 @@ Our input nodes (layer 1), also known as the "input layer", go into another node
 
 We can have intermediate layers of nodes between the input and output layers called the "hidden layers."
 
+In this example, we label these intermediate or "hidden" layer nodes $a_0^2...a_n^2$ and call them "activation units."
+
+$a_i^{(j)}$
