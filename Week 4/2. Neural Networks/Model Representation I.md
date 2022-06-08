@@ -1,6 +1,6 @@
 ---
 links:
-- chapter: 
+- chapter: [[Week 4]]
 - lesson: https://www.coursera.org/learn/machine-learning/supplement/YlEVx/model-representation-ii
 ---
 
