@@ -14,3 +14,5 @@ $a_i^{(j)}=\text{"activation" of unit }i\text{ in layer} j$
 
 $\Theta^{(j)}=\text{matrix of weights controlling function mapping from layer }j\text{ to layer }j+1$
 
+If we had one hidden layer, it woud look like:
+
