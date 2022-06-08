@@ -29,4 +29,5 @@ The dimensions of these matrices of weights is determined as follows:
 The $+1$ comes from the addition in $\Theta^{(j)}$ of the "bias nodes," $x_0$ and $\Theta^{(j)}_0$. In other words the output nodes will not include the bias nodes while the inputs will. The following image summarizes our model representation:
 
 ![[Pasted image 20220608090247.png]]
-Example: If layer 1 has 2 input nodes and layer 2 has 4 activation nodes. Dimension of $\Theta^{(1)}$
+Example: If layer 1 has 2 input nodes and layer 2 has 4 activation nodes. Dimension of $\Theta^{(1)}$ is going to be $4\times3$ where $s_j=2$ and $s_{j+1}=4$, so $s_{j+1}\times(s_j+1)=4\times3$
+
