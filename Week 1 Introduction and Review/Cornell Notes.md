@@ -25,4 +25,10 @@ What is a training example?
 - A pair $(x^{(i)},y^{(i)})$ is called a training example
 
 What is a training set?
-- 
+- A training set is a list of $m$ training examples $(x^{(i)},y^{(i)});i=1,...,m$
+- The superscript "(i)" in the notation is simply an index for the training set
+
+What is the use of a cost function?
+- A cost function is used to measure the accuracy of a hypothesis, it takes an average difference of all the results of the hypothesis with inputs from x's and the actual output y's
+- $J(\theta_0,\theta_1)=\frac{1}{2m}\sum\limits_{i=1}^m(\hat y_i-y_i)^2=\frac{1}{2m}\sum\limits_{i=1}^m(h_\theta(x_i)-y_i)^2$
+
