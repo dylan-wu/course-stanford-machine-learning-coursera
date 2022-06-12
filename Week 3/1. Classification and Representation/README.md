@@ -8,4 +8,4 @@ What is the binary classification problem?
 
 What is a sigmoid function?
 - Also called a logistic function
-- 
+- $h_\theta(x)=$
