@@ -13,3 +13,5 @@ What is a sigmoid function?
 - $g(z)=\frac{1}{1+e^{-z}}$
 
 What does a sigmoid function look like?
+![[Pasted image 20220612094831.png]]
+
