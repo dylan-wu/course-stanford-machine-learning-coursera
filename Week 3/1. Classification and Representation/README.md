@@ -6,3 +6,6 @@ How do we attempt classification?
 What is the binary classification problem?
 - $y$ can only take two values, $0$ and $1$
 
+What is a sigmoid function?
+- Also called a logistic function
+- 
