@@ -23,3 +23,4 @@ How do we get a discrete $0$ or $1$ classification with decision boundaries?
 
 What is a decision boundary?
 - line that separates the area where $y=0$ and $y=1$, in this case, it is $0.5$
+
