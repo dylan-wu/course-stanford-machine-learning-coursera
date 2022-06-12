@@ -8,3 +8,8 @@ Do you need to do feature scaling on a normal equation?
 
 ![[Pasted image 20220612091452.png]]
 
+Is the normal equation invertible?
+- Sometimes $X^TX$ is non-invertible, some causes are:
+- Redundant features, where two features are closely related
+- Too many features
+
