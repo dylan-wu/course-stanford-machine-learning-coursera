@@ -3,3 +3,5 @@ In a normal equation method, what is the formula, and what do we do?
 - Find the optimum theta, without iteration
 - $\theta=(X^TX)^{-1}X^Ty$
 
+Do you need to do feature scaling on a normal equation?
+- No
