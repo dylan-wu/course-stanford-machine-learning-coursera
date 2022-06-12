@@ -8,4 +8,8 @@ What is the binary classification problem?
 
 What is a sigmoid function?
 - Also called a logistic function
-- $h_\theta(x)=$
+- $h_\theta(x)=g(\theta^Tx)$
+- $z=\theta^Tx$
+- $g(z)=\frac{1}{1+e^{-z}}$
+
+What does a sigmoid function look like?
