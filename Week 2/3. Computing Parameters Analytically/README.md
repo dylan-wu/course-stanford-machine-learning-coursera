@@ -5,3 +5,6 @@ In a normal equation method, what is the formula, and what do we do?
 
 Do you need to do feature scaling on a normal equation?
 - No
+
+![[Pasted image 20220612091452.png]]
+
