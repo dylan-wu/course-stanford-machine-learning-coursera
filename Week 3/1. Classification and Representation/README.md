@@ -15,3 +15,4 @@ What is a sigmoid function?
 What does a sigmoid function look like?
 ![[Pasted image 20220612094831.png]]
 
+The function above maps any real number to the $(0,1)$ interval.
