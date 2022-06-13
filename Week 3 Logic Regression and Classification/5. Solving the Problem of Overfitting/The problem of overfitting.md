@@ -1,0 +1,1 @@
+Leftmost figure below shows the result of fitting a $y=\theta_0+\theta_1
